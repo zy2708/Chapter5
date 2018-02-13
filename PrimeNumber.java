@@ -1,6 +1,6 @@
 public class PrimeNumber {
 	public static void main(String[] args) {	
-		final int NUMBER_OF_PRIMES_PER_LINE = 10; 
+		final int NUMBER_OF_PRIMES_PER_LINE = 8; 
 		int count = 0; 	
 		int number = 2; 
 		while (number<=1000) { 
